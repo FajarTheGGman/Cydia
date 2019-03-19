@@ -1,2 +1,2 @@
 apt-get install php python git toilet figlet node -y
-npm install --save request shelljs colors prompt readline
+sh cydia.sh
